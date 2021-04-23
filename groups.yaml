@@ -8,5 +8,5 @@ iosxe:
       extras:
         auth_strict_key: False
         ssh_config_file: ~/my_ssh_config
-        transport: paramiko
+        transport: ssh2
         timeout_transport: 10
